@@ -1,0 +1,49 @@
+#content {
+    background-color: #ddd;
+    text-align: left;
+    font-size: 1.3em;
+}
+
+#box {
+    background-color: white;
+    width: 40%;
+    border: 2px solid black;
+    margin: 50px auto;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+h4 {
+    color: blue;
+    text-align: center
+}
+
+hr {
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: left;
+    
+}
+
+#list {
+    text-align: left;
+}
+
+.list-item {
+    margin-bottom: 50px;
+}
+
+
+img {
+    width: 30%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+}
